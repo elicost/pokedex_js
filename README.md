@@ -1,5 +1,4 @@
-# Pokedex (JavaScript Web App)
-This app was built as a project for Achievement 1 of CareerFoundry's JavaScript Immersion course
+# Pokedex (Web App)
 
 A responsive, client-side Pokedex application built with vanilla JavaScript, jQuery, and Bootstrap 4.
 The app uses the public PokeAPI to fetch the first 150 Pokemon and allow end users to browse, search, and view details for individual Pokemon.
