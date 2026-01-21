@@ -23,3 +23,7 @@ The app uses the public PokeAPI to fetch the first 150 Pokemon and allow end use
 ## Installation and Setup
 
 This project runs entirely in the browswer, with no additional external applications necessary for the end user.
+
+## Additional Notes
+
+Due to my transitioning to a new MacBook in the midst of this project, the file structure of the original GitHub respository was discombobulated.  Dates of activity listed in this repository change log simply reflect the correction of this error through the transition of code to a fresh repository.
